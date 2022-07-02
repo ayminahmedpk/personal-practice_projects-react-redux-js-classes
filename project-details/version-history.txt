@@ -1,0 +1,6 @@
+
+
+0.1.0:
+  - Installed old (targeted) version of react, react-redux
+  - Installed old version of react
+  - Init
