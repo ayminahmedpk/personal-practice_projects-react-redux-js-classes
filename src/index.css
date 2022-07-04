@@ -4,6 +4,8 @@
   margin     : 0;
   padding    : 0;
   box-sizing : border-box;
+  
+  text-align: center;
 }
 
 
@@ -12,12 +14,22 @@ html {
   color            : whitesmoke;
 }
 
-
-.component { margin: 2rem; }
-
-
 button {
-  padding: 0.1rem 0.3rem;
-  
-  cursor: pointer;
+  padding : 0.1rem 0.3rem;
+  cursor  : pointer;
+}
+
+
+/* .root__name,
+.branch__name,
+.component__name {
+  text-align: center;
+} */
+
+.branches { display: flex; }
+
+.branch,
+.component {
+  margin-top: 1rem;
+  width: 100%;
 }
