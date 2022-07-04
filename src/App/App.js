@@ -2,7 +2,7 @@
 
 import React, { Component } from 'react'
 
-import Root from '../Lessons/02-dispatch-and-actions/Root';
+import Root from '../Lessons/03-dispatch-and-actions copy/Root';
 
 class App extends Component {
   render() {
