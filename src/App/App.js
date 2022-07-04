@@ -2,7 +2,7 @@
 
 import React, { Component } from 'react'
 
-import Root from '../Lessons/01-basic-redux-mapStateToProps/Root';
+import Root from '../Lessons/02-dispatch-and-actions/Root';
 
 class App extends Component {
   render() {
