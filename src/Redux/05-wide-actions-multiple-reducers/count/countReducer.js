@@ -1,5 +1,7 @@
 
 
+import { RESET } from "../globalTypes";
+
 import { INCREMENT, DECREMENT } from "./countTypes";
 
 // random value for testing
@@ -13,6 +15,9 @@ export const countReducer = (state = initialState, action) => {
     
     case DECREMENT:
       return {count: state.count - 1};
+
+    case RESET:
+      return {count: 0};
 
     default:
       return state;
