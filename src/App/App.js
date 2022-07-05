@@ -2,7 +2,7 @@
 
 import React, { Component } from 'react'
 
-import Root from '../Lessons/05-wide-actions-multiple-reducers/Root';
+import Root from '../Lessons/06-ownProps-and-conditionals/Root';
 
 class App extends Component {
   render() {
