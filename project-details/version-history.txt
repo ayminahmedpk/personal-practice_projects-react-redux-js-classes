@@ -1,5 +1,10 @@
 
 
+0.1.7:
+  - Middleware with/without Redux Devtools
+  - Middleware
+
+
 0.1.6:
   - ownProps, conditional state props and conditional dispatches
 

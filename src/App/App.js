@@ -2,7 +2,7 @@
 
 import React, { Component } from 'react'
 
-import Root from '../Lessons/06-ownProps-and-conditionals/Root';
+import Root from '../Lessons/07-middleware/Root';
 
 class App extends Component {
   render() {
