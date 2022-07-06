@@ -2,7 +2,7 @@
 
 import React, { Component } from 'react'
 
-import Root from '../Lessons/07-middleware/Root';
+import Root from '../Lessons/08-store-subscribe/Root';
 
 class App extends Component {
   render() {
